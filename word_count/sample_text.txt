@@ -1,0 +1,5 @@
+Apache Spark is a powerful distributed computing framework
+Spark makes big data processing simple and fast
+PySpark is the Python API for Apache Spark
+Word count is a classic example in Spark
+Spark can process large datasets efficiently
